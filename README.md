@@ -13,3 +13,4 @@ MEAM 620 is an advanced graduate-level course for students interested in robotic
 - Map 2
 
 ![](http://g.recordit.co/8FiFgdigTp.gif)
+<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gcexxxv9ggj30wm0pidia.jpg" width=256 height=256 />
