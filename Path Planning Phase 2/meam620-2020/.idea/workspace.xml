@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dad99c5-f260-4ba1-a520-b99248051b46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XjJvWCYgCmJv4UAfWlsTGtdfki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.sandbox">
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_2/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_2/code/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Project 1/meam620-2020/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_2/util" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_2/util/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.sandbox" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sandbox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dad99c5-f260-4ba1-a520-b99248051b46" name="Default Changelist" comment="" />
+      <created>1581553801074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581553801074</updated>
+      <workItem from="1581553803560" duration="4691000" />
+      <workItem from="1581565439747" duration="89000" />
+      <workItem from="1581566155424" duration="96000" />
+      <workItem from="1581566465257" duration="107000" />
+      <workItem from="1581602728671" duration="1419000" />
+      <workItem from="1581604741849" duration="897000" />
+      <workItem from="1581606418244" duration="613000" />
+      <workItem from="1581607582665" duration="224000" />
+      <workItem from="1581820076979" duration="696000" />
+      <workItem from="1581823255669" duration="148000" />
+      <workItem from="1581823788861" duration="299000" />
+      <workItem from="1581824193425" duration="115000" />
+      <workItem from="1581882388632" duration="386000" />
+      <workItem from="1581883228920" duration="449000" />
+      <workItem from="1581960174114" duration="69000" />
+      <workItem from="1581960266861" duration="196000" />
+      <workItem from="1582042761022" duration="62000" />
+      <workItem from="1582044992043" duration="6000" />
+      <workItem from="1582045100119" duration="96000" />
+      <workItem from="1582064245745" duration="37000" />
+      <workItem from="1582121800739" duration="785000" />
+      <workItem from="1582759335261" duration="863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="108" y="104" width="1234" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581603456333">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="108" y="104" width="1234" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1581603456333" />
+    <state width="254" height="754" key="GridCell.Tab.0.bottom" timestamp="1582760200975">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="227" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582064282247" />
+    <state width="1646" height="227" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1581883602030" />
+    <state width="254" height="754" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582760200975" />
+    <state width="254" height="754" key="GridCell.Tab.0.center" timestamp="1582760200974">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="227" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582064282246" />
+    <state width="1646" height="227" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1581883602029" />
+    <state width="254" height="754" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582760200974" />
+    <state width="254" height="754" key="GridCell.Tab.0.left" timestamp="1582760200974">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="227" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582064282245" />
+    <state width="1646" height="227" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1581883602029" />
+    <state width="254" height="754" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582760200974" />
+    <state width="254" height="754" key="GridCell.Tab.0.right" timestamp="1582760200975">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="227" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582064282246" />
+    <state width="1646" height="227" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1581883602030" />
+    <state width="254" height="754" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582760200975" />
+    <state width="1394" height="284" key="GridCell.Tab.1.bottom" timestamp="1581604160019">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="284" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581604160019" />
+    <state width="1394" height="284" key="GridCell.Tab.1.center" timestamp="1581604160019">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="284" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1581604160019" />
+    <state width="1394" height="284" key="GridCell.Tab.1.left" timestamp="1581604160018">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="284" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1581604160018" />
+    <state width="1394" height="284" key="GridCell.Tab.1.right" timestamp="1581604160019">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1394" height="284" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581604160019" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1581602857092">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1581602857092" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/meam620_2020$sandbox.coverage" NAME="sandbox Coverage Results" MODIFIED="1582759534574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_2/code" />
+    <SUITE FILE_PATH="coverage/meam620_2020$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1581603196479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_2/" />
+    <SUITE FILE_PATH="coverage/meam620_2020$test.coverage" NAME="test Coverage Results" MODIFIED="1581960337551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_2/util" />
+  </component>
+</project>

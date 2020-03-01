@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5832ac2e-9f7f-45bd-852d-38963266d28f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="meam620-2020" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YGHYoPBrDvENkPAPUYBHSIQsBS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunManager" selected="Python.sandbox">
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_3/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_3/code/测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Project 1/meam620-2020/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_3/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_3/code/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="se3_control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_3/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_3/code/se3_control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Project 1/meam620-2020/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_3/util" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_3/util/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="world_traj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_3/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_3/code/world_traj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.sandbox" />
+      <item itemvalue="Python.se3_control" />
+      <item itemvalue="Python.测试" />
+      <item itemvalue="Python.world_traj" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.测试" />
+        <item itemvalue="Python.world_traj" />
+        <item itemvalue="Python.se3_control" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5832ac2e-9f7f-45bd-852d-38963266d28f" name="Default Changelist" comment="" />
+      <created>1582562060758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582562060758</updated>
+      <workItem from="1582562065794" duration="1029000" />
+      <workItem from="1582571677604" duration="383000" />
+      <workItem from="1582572363291" duration="14629000" />
+      <workItem from="1582647289085" duration="16919000" />
+      <workItem from="1582687172034" duration="434000" />
+      <workItem from="1582688001721" duration="155000" />
+      <workItem from="1582688363815" duration="293000" />
+      <workItem from="1582692302529" duration="1013000" />
+      <workItem from="1582735616838" duration="3238000" />
+      <workItem from="1582745704340" duration="1808000" />
+      <workItem from="1582757980826" duration="798000" />
+      <workItem from="1582760210225" duration="1913000" />
+      <workItem from="1582814740763" duration="326000" />
+      <workItem from="1582823236194" duration="177000" />
+      <workItem from="1582853133933" duration="1333000" />
+      <workItem from="1582855267451" duration="442000" />
+      <workItem from="1582918829871" duration="16793000" />
+      <workItem from="1582952559126" duration="115000" />
+      <workItem from="1582998788680" duration="2537000" />
+      <workItem from="1583002801147" duration="108000" />
+      <workItem from="1583003073102" duration="183000" />
+      <workItem from="1583003389127" duration="75000" />
+      <workItem from="1583003842515" duration="76000" />
+      <workItem from="1583008156166" duration="1231000" />
+      <workItem from="1583009466616" duration="1839000" />
+      <workItem from="1583017962132" duration="318000" />
+      <workItem from="1583019041335" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="199" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582563086488">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="199" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582563086488" />
+    <state width="1592" height="466" key="DebuggerActiveHint" timestamp="1582943931014">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1592" height="466" key="DebuggerActiveHint/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1582943931014" />
+    <state width="1349" height="812" key="GridCell.Tab.0.bottom" timestamp="1583018280570">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="197" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582920768499" />
+    <state width="1349" height="812" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583018280570" />
+    <state width="1394" height="235" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582823412864" />
+    <state width="1349" height="812" key="GridCell.Tab.0.center" timestamp="1583018280569">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="197" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582920768499" />
+    <state width="1349" height="812" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583018280569" />
+    <state width="1394" height="235" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582823412864" />
+    <state width="1349" height="812" key="GridCell.Tab.0.left" timestamp="1583018280569">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="197" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582920768498" />
+    <state width="1349" height="812" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583018280569" />
+    <state width="1394" height="235" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582823412863" />
+    <state width="1349" height="812" key="GridCell.Tab.0.right" timestamp="1583018280570">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="197" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582920768499" />
+    <state width="1349" height="812" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583018280570" />
+    <state width="1394" height="235" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582823412864" />
+    <state width="1699" height="278" key="GridCell.Tab.1.bottom" timestamp="1583010185428">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="278" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583010185428" />
+    <state width="1699" height="278" key="GridCell.Tab.1.center" timestamp="1583010185427">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="278" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583010185427" />
+    <state width="1699" height="278" key="GridCell.Tab.1.left" timestamp="1583010185427">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="278" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583010185427" />
+    <state width="1699" height="278" key="GridCell.Tab.1.right" timestamp="1583010185427">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1699" height="278" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1583010185427" />
+    <state x="216" y="122" key="SettingsEditor" timestamp="1582573512808">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="2282" y="129" key="SettingsEditor/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582562903620" />
+    <state x="443" y="116" key="SettingsEditor/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1582562356896" />
+    <state x="216" y="122" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582573512808" />
+    <state width="824" height="438" key="XDebugger.FullValuePopup" timestamp="1582738627183">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="824" height="438" key="XDebugger.FullValuePopup/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1582738627183" />
+    <state x="806" y="185" width="1435" height="630" key="dock-window-1" timestamp="1582920058784">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="806" y="185" width="1435" height="630" key="dock-window-1/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1582920058784" />
+    <state x="0" y="23" width="1440" height="855" key="dock-window-2" timestamp="1582947346957">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" width="1440" height="855" key="dock-window-2/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1582947346957" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.time_interval" language="Python" />
+        <watch expression="self.time_interval.shape[0]" language="Python" />
+        <watch expression="self.Coef" language="Python" />
+        <watch expression="self.length_interval" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/meam620_2020$sandbox.coverage" NAME="sandbox Coverage Results" MODIFIED="1583018215370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_3/code" />
+    <SUITE FILE_PATH="coverage/meam620_2020$world_traj.coverage" NAME="world_traj Coverage Results" MODIFIED="1582595162075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_3/code" />
+    <SUITE FILE_PATH="coverage/meam620_2020$.coverage" NAME="测试 Coverage Results" MODIFIED="1582945078362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_3/code" />
+    <SUITE FILE_PATH="coverage/meam620_2020$se3_control.coverage" NAME="se3_control Coverage Results" MODIFIED="1582572084864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_3/code" />
+    <SUITE FILE_PATH="coverage/meam620_2020$test.coverage" NAME="test Coverage Results" MODIFIED="1583010542278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proj1_3/util" />
+  </component>
+</project>
