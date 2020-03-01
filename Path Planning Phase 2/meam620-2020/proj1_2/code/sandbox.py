@@ -11,8 +11,8 @@ from proj1_2.code.occupancy_map import OccupancyMap
 from proj1_2.code.graph_search import graph_search
 
 # Choose a test example file. You should write your own example files too!
-# filename = 'test_empty.json'
-filename = 'test_saw.json'
+ filename = 'test_empty.json'
+#filename = 'test_saw.json'
 
 # Load the test example.
 file = Path(inspect.getsourcefile(lambda:0)).parent.resolve() / '..' / 'util' / filename
